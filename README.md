@@ -22,9 +22,8 @@ iPhone SE
 iPhone 6s
 iPhone 6
 iPhone 5s
-iPhone 5c
+iPhone 5c ### tested by me
 iPhone 5
-iPhone 2/3
 
 iPad Pro (2015 & 2017 models)
 iPad 4th/5th/6th/7th Generation
@@ -58,13 +57,13 @@ UBUNTU LIVE USB USERS WILL NEED TO ENABLE SOFTWARE REPOS IN SOFTWARE & UPDATES
 
 ```
 sudo apt install git
-git clone https://github.com/Hacktivation/iOS-Hacktivation-Toolkit.git
+git clone https://github.com/mohfreestyl/iOS-Hacktivation-Toolkit.git
 cd iOS-Hacktivation-Toolkit/
 chmod +x hacktivation.sh
 sudo ./hacktivation.sh
 ```
 
-Tested on Debian 10 and Ubuntu 20.04
+Tested on Xubuntu 20.04, Focal Fossa.
 
 Looking for developers! This is a work in progress. If you think you can add to this project please get in touch!
 
